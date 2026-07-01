@@ -1,0 +1,58 @@
+cff-version: 1.2.0
+message: >-
+  If you use this reproducibility package, please cite both the archived
+  software/data package and the associated manuscript.
+title: >-
+  Reproducibility package for "Quantifying the Information Capacity of
+  Histone Post-Translational Modifications in Human Chromatin"
+abstract: >-
+  This package includes all the code necessary to reproduce the results of the
+  manuscript "Quantifying the Information Capacity of Histone Post-Translational
+  Modifications in Human Chromatin". The software applies Shannon entropy to
+  quantify the information capacity encoded by histone post-translational
+  modification (PTM) states per nucleosome and per diploid human cell, across a
+  hierarchy of estimates (theoretical combinatorial capacity, accessible
+  proteoform space, statistical occupancy, correlation-corrected independent
+  information and functionally interpretable chromatin-state information),
+  for the core and linker histone H1 layers.
+type: software
+authors:
+  - family-names: Carrasco-Pujante
+    given-names: Jose
+    orcid: https://orcid.org/0000-0001-6490-738X
+doi: 10.5281/zenodo.21110251
+url: https://doi.org/10.5281/zenodo.21110251
+repository-code: >-
+  https://github.com/JoseCarrascoPujante/Quantifying-the-Information-Capacity-of-Histone-Post-Translational-Modifications-in-Human-Chromatin
+license: MIT
+keywords:
+  - histone post-translational modifications
+  - nucleosome
+  - chromatin information
+  - Shannon entropy
+  - histone code
+  - proteoforms
+  - linker histone H1
+  - chromatin states
+  - information capacity
+preferred-citation:
+  type: article
+  title: Quantifying the Information Capacity of Histone Post-Translational
+    Modifications in Human Chromatin
+  authors:
+    - family-names: De la Fuente
+      given-names: Ildefonso M.
+    - family-names: Carrasco-Pujante
+      given-names: José
+    - family-names: Legarreta
+      given-names: Leire
+    - family-names: Malaina
+      given-names: Iker
+    - family-names: Pérez-Yarza
+      given-names: Gorka
+    - family-names: Martínez
+      given-names: Luis
+    - family-names: Cortés
+      given-names: Jesús M.
+    - family-names: López
+      given-names: José I.
